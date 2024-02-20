@@ -1,3 +1,6 @@
+# 💫 About Me:
+Motivated and results-driven Web Developer with a strong organizational background, seeking entry-level Middle positions. Experienced in PHP/Laravel development, contributing to projects at InLab Academy and SQB Construction, involving mobile/desktop platforms and AWS deployment. Adept at crafting effective websites and applications using HTML, CSS, and JavaScript. Possesses certifications in PHP Backend Development and Python Backend Development from InLab Academy and Proweb. Demonstrated ability in creating innovative solutions, including designing a Telegram bot for enhanced communication and leading the development of dynamic full-stack websites. Proven skills in API development and database management. Eager to contribute to team success and leverage technical proficiency for optimal impact on GitHub projects.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100087296565992&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/takh1.rov_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ulug-bek-tokhirov-8a4336299/) 
@@ -8,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=takhirovulugbek777&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=takhirovulugbek777&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=takhirovulugbek777&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=takhirovulugbek777&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
